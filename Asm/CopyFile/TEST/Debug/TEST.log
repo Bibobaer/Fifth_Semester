@@ -1,0 +1,7 @@
+﻿  Assembling ..\src\main.asm...
+..\src\main.asm(63): warning A6004: procedure argument or local not referenced : argc
+..\src\main.asm(63): warning A6004: procedure argument or local not referenced : argv
+..\src\main.asm(63): warning A6004: procedure argument or local not referenced : envp
+  TEST.vcxproj -> C:\Users\gilya\OneDrive\Рабочий стол\5 семак\Asm\TEST\Debug\TEST.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

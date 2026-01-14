@@ -1,0 +1,6 @@
+﻿  Graph.cpp
+C:\Users\Vulcanix\Desktop\5 семак\Дискретка\lab3\lab3\Graph.cpp(22,9): warning C4101: weight: неиспользованная локальная переменная
+C:\Users\Vulcanix\Desktop\5 семак\Дискретка\lab3\lab3\Graph.cpp(89,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  Создание кода...
+  lab3.vcxproj -> C:\Users\Vulcanix\Desktop\5 семак\Дискретка\lab3\x64\Debug\lab3.exe

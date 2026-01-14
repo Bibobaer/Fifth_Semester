@@ -1,0 +1,10 @@
+﻿  Graph.cpp
+C:\Users\Vulcanix\Desktop\5 семак\Дискретка\lab3\lab3\Graph.cpp(86,47): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 473 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  lab3.vcxproj -> C:\Users\Vulcanix\Desktop\5 семак\Дискретка\lab3\x64\Release\lab3.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

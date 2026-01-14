@@ -1,0 +1,13 @@
+@echo off
+echo Compiling C file...
+cl /c print.c
+
+echo Compiling ASM file...
+ml /c algorighm.asm
+
+echo Linking...
+link algorighm.obj print.obj legacy_stdio_definitions.lib /out:main.exe
+del algorighm.obj, print.obj
+
+echo Running program...
+main.exe

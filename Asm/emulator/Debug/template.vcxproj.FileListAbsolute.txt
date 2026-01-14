@@ -1,0 +1,2 @@
+C:\Users\gilya\OneDrive\Рабочий стол\emulator2\Debug\vm.exe
+C:\Users\gilya\OneDrive\Рабочий стол\5 семак\Asm\emulator\Debug\vm.exe

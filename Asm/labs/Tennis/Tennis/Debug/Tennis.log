@@ -1,0 +1,7 @@
+﻿  Assembling main.asm...
+main.asm(40): warning A6004: procedure argument or local not referenced : hPrevInstance
+main.asm(40): warning A6004: procedure argument or local not referenced : szCmdLine
+main.asm(40): warning A6004: procedure argument or local not referenced : iCmdShow
+  Tennis.vcxproj -> C:\Users\Vulcanix\Desktop\5 семак\Asm\labs\Tennis\Debug\Tennis.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

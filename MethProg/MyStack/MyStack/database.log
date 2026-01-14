@@ -1,0 +1,42 @@
+Stack Type | Sort Type |  Data Type  |  Size   | Time (ms)
+-----------|-----------|-------------|---------|-----------
+ArrayStack | Selection | Random      | 1000000 | 1124 ms
+ArrayStack | Quick     | Random      | 1000000 | 3427 ms
+ListStack  | Selection | Random      | 1000000 | 5087 ms
+ListStack  | Quick     | Random      | 1000000 | 22487 ms
+ChunkStack | Selection | Random      | 1000000 | 926 ms
+ChunkStack | Quick     | Random      | 1000000 | 2902 ms
+std::stack | Selection | Random      | 1000000 | 602 ms
+std::stack | Quick     | Random      | 1000000 | 3864 ms
+ArrayStack | Selection | Sorted      | 1000000 | 45 ms
+ArrayStack | Quick     | Sorted      | 1000000 | 3956 ms
+ListStack  | Selection | Sorted      | 1000000 | 294 ms
+ListStack  | Quick     | Sorted      | 1000000 | 10137 ms
+ChunkStack | Selection | Sorted      | 1000000 | 143 ms
+ChunkStack | Quick     | Sorted      | 1000000 | 3529 ms
+std::stack | Selection | Sorted      | 1000000 | 98 ms
+std::stack | Quick     | Sorted      | 1000000 | 4557 ms
+ArrayStack | Selection | Semi Sorted | 1000000 | 580 ms
+ArrayStack | Quick     | Semi Sorted | 1000000 | 3927 ms
+ListStack  | Selection | Semi Sorted | 1000000 | 3080 ms
+ListStack  | Quick     | Semi Sorted | 1000000 | 11938 ms
+ChunkStack | Selection | Semi Sorted | 1000000 | 771 ms
+ChunkStack | Quick     | Semi Sorted | 1000000 | 3502 ms
+std::stack | Selection | Semi Sorted | 1000000 | 413 ms
+std::stack | Quick     | Semi Sorted | 1000000 | 4421 ms
+ArrayStack | Selection | Unique      | 1000000 | 898 ms
+ArrayStack | Quick     | Unique      | 1000000 | 3962 ms
+ListStack  | Selection | Unique      | 1000000 | 3405 ms
+ListStack  | Quick     | Unique      | 1000000 | 19653 ms
+ChunkStack | Selection | Unique      | 1000000 | 933 ms
+ChunkStack | Quick     | Unique      | 1000000 | 3730 ms
+std::stack | Selection | Unique      | 1000000 | 539 ms
+std::stack | Quick     | Unique      | 1000000 | 4379 ms
+ArrayStack | Selection | Duplicates  | 1000000 | 915 ms
+ArrayStack | Quick     | Duplicates  | 1000000 | 1497 ms
+ListStack  | Selection | Duplicates  | 1000000 | 3449 ms
+ListStack  | Quick     | Duplicates  | 1000000 | 14962 ms
+ChunkStack | Selection | Duplicates  | 1000000 | 872 ms
+ChunkStack | Quick     | Duplicates  | 1000000 | 1391 ms
+std::stack | Selection | Duplicates  | 1000000 | 577 ms
+std::stack | Quick     | Duplicates  | 1000000 | 2162 ms

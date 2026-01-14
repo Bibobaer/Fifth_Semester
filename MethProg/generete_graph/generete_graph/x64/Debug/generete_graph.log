@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\gilya\OneDrive\Рабочий стол\5 семак\MethProg\generete_graph\generete_graph\main.cpp(35,32): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\gilya\OneDrive\Рабочий стол\5 семак\MethProg\generete_graph\generete_graph\main.cpp(39,29): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\gilya\OneDrive\Рабочий стол\5 семак\MethProg\generete_graph\generete_graph\main.cpp(72,15): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\gilya\OneDrive\Рабочий стол\5 семак\MethProg\generete_graph\generete_graph\main.cpp(96,19): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\numeric(216,26): warning C4267: =: преобразование из "size_t" в "_Ty"; возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\gilya\OneDrive\Рабочий стол\5 семак\MethProg\generete_graph\generete_graph\main.cpp(199,17): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Ty std::transform_reduce<std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<std::vector<_Ty,std::allocator<_Ty>>>>>,int,std::plus<void>,countTotalEdges::<lambda_1>>(const _InIt,const _InIt,_Ty,_BinOp,_UnaryOp)"
+          with
+          [
+              _Ty=int,
+              _InIt=std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<std::vector<int,std::allocator<int>>>>>,
+              _BinOp=std::plus<void>,
+              _UnaryOp=countTotalEdges::<lambda_1>
+          ]
+  generete_graph.vcxproj -> C:\Users\gilya\OneDrive\Рабочий стол\5 семак\MethProg\generete_graph\x64\Debug\generete_graph.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

@@ -1,0 +1,2 @@
+C:\Users\Vulcanix\Desktop\10\examples\chess_asm_2022\Debug\chess_asm.exe
+C:\Users\Vulcanix\Desktop\5 семак\Asm\chess_asm_2022\Debug\chess_asm.exe

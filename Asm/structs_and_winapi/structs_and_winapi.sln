@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "structs_and_winapi", "structs_and_winapi\structs_and_winapi.vcxproj", "{B831B827-7B49-46EB-A805-41A802CA00F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B831B827-7B49-46EB-A805-41A802CA00F2}.Debug|x86.ActiveCfg = Debug|Win32
+		{B831B827-7B49-46EB-A805-41A802CA00F2}.Debug|x86.Build.0 = Debug|Win32
+		{B831B827-7B49-46EB-A805-41A802CA00F2}.Release|x86.ActiveCfg = Release|Win32
+		{B831B827-7B49-46EB-A805-41A802CA00F2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D7665C8-C708-4AE6-AC12-7485DECB72B1}
+	EndGlobalSection
+EndGlobal

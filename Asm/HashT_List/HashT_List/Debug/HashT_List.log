@@ -1,0 +1,5 @@
+﻿  Assembling main.asm...
+main.asm(48): warning A6004: procedure argument or local not referenced : argc
+main.asm(48): warning A6004: procedure argument or local not referenced : argv
+main.asm(48): warning A6004: procedure argument or local not referenced : envp
+  HashT_List.vcxproj -> C:\Users\Vulcanix\Desktop\5 семак\Asm\HashT_List\Debug\HashT_List.exe

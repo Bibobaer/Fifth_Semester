@@ -1,0 +1,6 @@
+#include <windows.h>
+
+MainIcon    ICON    "icon.ico"
+
+ballSprite BITMAP "Assets/ball.bmp"
+backgroungSprite BITMAP "Assets/BG.bmp"

@@ -1,0 +1,1 @@
+PlayAssetSound proto :dword

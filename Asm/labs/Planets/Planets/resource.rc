@@ -1,0 +1,32 @@
+#include <windows.h>
+
+// ID меню
+#define IDM_EDIT_PLANETS 1001
+#define IDM_RESET_VALUES 1002
+#define IDM_EXIT 1003
+
+// ID диалогов
+#define PLANET_DIALOG 2001
+#define PARAM_DIALOG 2002
+
+MainIcon ICON "icon.ico"
+
+MainMenu MENU {
+    POPUP "&File" {
+        MENUITEM "&Exit", IDM_EXIT
+    }
+    POPUP "&Settings" {
+        MENUITEM "&Edit Planet params", IDM_EDIT_PLANETS
+        MENUITEM "&Reset values", IDM_RESET_VALUES
+    }
+}
+
+PLANET_DIALOG DIALOGEX 0, 0, 300, 280
+CAPTION "Select Planet"
+BEGIN
+END
+
+PARAM_DIALOG DIALOGEX 0, 0, 320, 220
+CAPTION "Planet params"
+BEGIN
+END

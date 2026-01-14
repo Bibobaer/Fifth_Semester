@@ -1,0 +1,8 @@
+﻿  Assembling bmp.asm...
+  Assembling main.asm...
+main.asm(106): warning A6004: procedure argument or local not referenced : hPrevInstance
+main.asm(106): warning A6004: procedure argument or local not referenced : szCmdLine
+main.asm(106): warning A6004: procedure argument or local not referenced : iCmdShow
+  asm_prog.vcxproj -> C:\Users\Vulcanix\Desktop\5 семак\Asm\asm_picture_2022\Debug\asm_picture.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

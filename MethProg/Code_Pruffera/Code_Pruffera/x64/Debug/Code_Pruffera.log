@@ -1,0 +1,16 @@
+﻿  main.cpp
+  Pruffer.cpp
+C:\Users\Vulcanix\Desktop\5 семак\MethProg\Code_Pruffera\Code_Pruffera\Pruffer.cpp(118,25): warning C4267: аргумент: преобразование из "size_t" в "_Ty"; возможна потеря данных
+C:\Users\Vulcanix\Desktop\5 семак\MethProg\Code_Pruffera\Code_Pruffera\Pruffer.cpp(118,25): warning C4267:         with
+C:\Users\Vulcanix\Desktop\5 семак\MethProg\Code_Pruffera\Code_Pruffera\Pruffer.cpp(118,25): warning C4267:         [
+C:\Users\Vulcanix\Desktop\5 семак\MethProg\Code_Pruffera\Code_Pruffera\Pruffer.cpp(118,25): warning C4267:             _Ty=int
+C:\Users\Vulcanix\Desktop\5 семак\MethProg\Code_Pruffera\Code_Pruffera\Pruffer.cpp(118,25): warning C4267:         ]
+C:\Users\Vulcanix\Desktop\5 семак\MethProg\Code_Pruffera\Code_Pruffera\Pruffer.cpp(119,26): warning C4244: аргумент: преобразование "__int64" в "_Ty", возможна потеря данных
+C:\Users\Vulcanix\Desktop\5 семак\MethProg\Code_Pruffera\Code_Pruffera\Pruffer.cpp(119,26): warning C4244:         with
+C:\Users\Vulcanix\Desktop\5 семак\MethProg\Code_Pruffera\Code_Pruffera\Pruffer.cpp(119,26): warning C4244:         [
+C:\Users\Vulcanix\Desktop\5 семак\MethProg\Code_Pruffera\Code_Pruffera\Pruffer.cpp(119,26): warning C4244:             _Ty=int
+C:\Users\Vulcanix\Desktop\5 семак\MethProg\Code_Pruffera\Code_Pruffera\Pruffer.cpp(119,26): warning C4244:         ]
+  Создание кода...
+  Code_Pruffera.vcxproj -> C:\Users\Vulcanix\Desktop\5 семак\MethProg\Code_Pruffera\x64\Debug\Code_Pruffera.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

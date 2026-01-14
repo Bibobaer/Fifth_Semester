@@ -1,0 +1,12 @@
+SCREEN_WIDTH        equ 1100
+SCREEN_HEIGHT       equ 700
+
+WINDOWS_OFFSET_X    equ 10
+WINDOWS_OFFSET_Y    equ 10
+
+PLAYER_WIDTH        equ 25
+PLAYER_HEIGHT       equ 100
+PLAYER_SPEED        equ 11
+
+BALL_RADIUS         equ 20
+BALL_SPEED          equ 12

@@ -1,0 +1,8 @@
+﻿cl : командная строка  warning D9035: использование параметра "Gm" нежелательно, он будет удален в следующих выпусках
+  vm.c
+C:\Users\gilya\OneDrive\Рабочий стол\5 семак\Asm\emulator\vm.c(732,17): warning C4101: value: неиспользованная локальная переменная
+C:\Users\gilya\OneDrive\Рабочий стол\5 семак\Asm\emulator\vm.c(902,13): warning C4477: "printf": в строке форматирования "%08p" требуется аргумент типа "void *", но вариативный аргумент "1" имеет тип "unsigned int"
+main.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/INCREMENTAL:NO"
+  template.vcxproj -> C:\Users\gilya\OneDrive\Рабочий стол\5 семак\Asm\emulator\Debug\vm.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
